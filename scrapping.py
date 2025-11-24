@@ -15,8 +15,8 @@ from selenium.webdriver.chrome.options import Options
 import os
 
 # ============ KONFIGURASI ============
-user_ig = "el.husaen_"
-pass_ig = "elhusaen"
+user_ig = ""
+pass_ig = ""
 post_url = "https://www.instagram.com/p/DRPEqK6DzQP/"
 TARGET_COMMENTS = 200
 
